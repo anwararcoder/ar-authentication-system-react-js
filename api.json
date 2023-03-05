@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "firstName": "Anwar",
+      "lastName": "Ramadan",
+      "address": "sansaft",
+      "city": "Menouf",
+      "country": "Egypt",
+      "phone": "01212843661",
+      "email": "nourramadan144@gmail.com",
+      "password": "123456",
+      "question": "What is your favorite soccer team",
+      "answerTheQuestion": "Al-Ahly",
+      "photo": "blob:http://localhost:3000/05ad9d7f-48d1-4972-977e-e86e9c25c342",
+      "id": 1
+    },
+    {
+      "firstName": "Ahmed",
+      "lastName": "Mohamed",
+      "address": "sansaft",
+      "city": "menouf",
+      "country": "Egypt",
+      "phone": "01212843661",
+      "email": "ahmedmohamed@gmail.com",
+      "password": "789456123",
+      "question": "What is your favorite soccer team",
+      "answerTheQuestion": "Al-Ahly",
+      "photo": "blob:http://localhost:3000/2c22af1e-20ae-4614-bbd0-fa3725206c2f",
+      "id": 2
+    },
+    {
+      "firstName": "Ali",
+      "lastName": "Ahmed",
+      "address": "Cairo",
+      "city": "Nasr",
+      "country": "Egypt",
+      "phone": "01029134630",
+      "email": "aliahmed@gmail.com",
+      "password": "123456",
+      "question": "What is your favorite sport",
+      "answerTheQuestion": "footbal",
+      "photo": "blob:http://localhost:3000/bd20d544-de0f-4c59-9fc7-9cf11bd077ca",
+      "id": 3
+    },
+    {
+      "firstName": "Nabil",
+      "lastName": "Sabry",
+      "address": "Menouf",
+      "city": "El-Menoufia",
+      "country": "Egypt",
+      "phone": "01029134630",
+      "email": "nabil@gmail.com",
+      "password": "123456",
+      "question": "What is your favorite sport",
+      "answerTheQuestion": "Al-Ahly",
+      "photo": "blob:http://localhost:3000/9dddaeed-758a-422e-a090-ba96ed1f352e",
+      "id": 4
+    }
+  ]
+}
